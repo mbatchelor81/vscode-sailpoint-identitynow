@@ -3,16 +3,26 @@
   "displayName": "SailPoint Identity Security Cloud",
   "description": "Customize SailPoint Identity Security Cloud",
   "version": "1.3.23",
-  "publisher": "yannick-beot-sp",
+  "publisher": "mbatchelor81",
+  "author": {
+    "name": "Yannick Beot",
+    "url": "https://github.com/yannick-beot-sp"
+  },
+  "contributors": [
+    {
+      "name": "Mason Batchelor",
+      "url": "https://github.com/mbatchelor81"
+    }
+  ],
   "icon": "resources/isc.png",
   "bugs": {
-    "url": "https://github.com/yannick-beot-sp/vscode-sailpoint-identitynow/issues"
+    "url": "https://github.com/mbatchelor81/vscode-sailpoint-identitynow/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yannick-beot-sp/vscode-sailpoint-identitynow.git"
+    "url": "https://github.com/mbatchelor81/vscode-sailpoint-identitynow.git"
   },
-  "homepage": "https://github.com/yannick-beot-sp/vscode-sailpoint-identitynow/",
+  "homepage": "https://github.com/mbatchelor81/vscode-sailpoint-identitynow/",
   "engines": {
     "vscode": "^1.74.0"
   },

@@ -1,3 +1,8 @@
+# Fork Notice
+This repository is an unmodified fork of [yannick-beot-sp/vscode-sailpoint-identitynow](https://github.com/yannick-beot-sp/vscode-sailpoint-identitynow).
+<br><br>All authorship, copyright, and ownership remain with the original authors.
+<br><br>Modifications are limited to packaging and publication on the OpenVSX Marketplace.
+
 # SailPoint Identity Security Cloud for Visual Studio Code
 
 > This extension is not developed, maintained or supported by SailPoint.
